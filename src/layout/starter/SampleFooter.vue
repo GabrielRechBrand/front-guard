@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <div class="copyright">
         © {{year}} made by
-        <a href="https://www.creative-tim.com" target="_blank" rel="noopener">Gabriel Rech Brand</a>
+        <a target="_blank" rel="noopener">Gabriel Rech Brand</a>
       </div>
     </div>
   </footer>
